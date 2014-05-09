@@ -3,7 +3,7 @@
 /* The generated code is subject to the original license. */
 /* Compiled for: Windows, amd64, gcc */
 /* Command for C compiler:
-   "C:\Program Files (x86)\Nimrod\dist\mingw\bin\gcc.exe" -c  -w  -I"C:\Program Files (x86)\Nimrod\lib" -o c:\users\androiddev\nimrod\nimcache\system.o c:\users\androiddev\nimrod\nimcache\system.c */
+   "C:\Program Files (x86)\Nimrod\dist\mingw\bin\gcc.exe" -c  -w  -I"C:\Program Files (x86)\Nimrod\lib" -o c:\users\androiddev\documents\github\nimrod_testing\nimcache\system.o c:\users\androiddev\documents\github\nimrod_testing\nimcache\system.c */
 #define NIM_INTBITS 64
 #include "nimbase.h"
 
